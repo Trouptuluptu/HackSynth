@@ -2,6 +2,9 @@
 The paper can be found on [arXiv](https://arxiv.org/abs/2412.01778).
 
 ## Introduction
+<img align="left" style="width: 160px;" src="assets/logo.gif" alt="HackSynth Logo"/>https://arxiv.org/abs/2412.01778).
+
+## Introduction
 <img align="left" style="width: 160px;" src="assets/logo.gif" alt="HackSynth Logo"/>
 
 We introduce HackSynth, a novel Large Language Model (LLM)-based agent capable of autonomous penetration testing.
